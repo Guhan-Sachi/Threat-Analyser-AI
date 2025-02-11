@@ -130,5 +130,5 @@ Contributions are welcome! Please read the contributing guidelines for more info
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements 🙏
-- **[Gemini LLM](https://ai.google.com/gemini/)**
+- **[Gemini LLM](https://aistudio.google.com/)**
 - **[MongoDB Atlas](https://www.mongodb.com/atlas)**
