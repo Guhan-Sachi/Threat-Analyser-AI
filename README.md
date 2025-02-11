@@ -47,9 +47,9 @@ Transform unstructured cyber threat data into structured intelligence using Gemi
 git clone https://github.com/Guhan-Sachi/Threat-Analyser-AI
 cd Threat-Analyser-AI/backend
 pip install -r requirements.txt
- Public code references from 1 repository
+ Public code references from 1 repository```
 
-### Backend Setup
+## Backend Setup
 bash
 cd ../frontend
 # Follow the instructions for setting up the frontend
