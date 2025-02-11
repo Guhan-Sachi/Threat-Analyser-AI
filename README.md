@@ -51,3 +51,5 @@ git clone https://github.com/Guhan-Sachi/Threat-Analyser-AI
 cd Threat-Analyser-AI/backend
 pip install -r requirements.txt
 
+cd ../frontend
+# Follow the instructions for setting up the frontend
