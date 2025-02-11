@@ -6,7 +6,7 @@
 
 Transform unstructured cyber threat data into structured intelligence using Gemini LLM and MongoDB Atlas.
 
-![Workflow Diagram](https://via.placeholder.com/800x400.png?text=Threat+Processing+Workflow) <!-- Replace with actual diagram -->
+![Workflow Diagram](![image](https://github.com/user-attachments/assets/ef586cdc-6820-431a-be91-8f6c0d441e07)) <!-- Replace with actual diagram -->
 
 ## Table of Contents
 - [Features](#features)
