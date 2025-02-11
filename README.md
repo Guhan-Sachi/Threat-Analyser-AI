@@ -1,6 +1,3 @@
-# Threat-Analyser-AI
-Transform Unstructured Threat Data into Actionable Intelligence. Leveraging Gemini LLM API to automatically detect and structure cyber threats from unstructured data sources (logs, reports, alerts), then store organized threat intelligence in MongoDB Atlas cloud database with a web interface for threat analysis.
-
 # Threat Analyzer AI 🔍🛡️
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -50,11 +47,11 @@ Transform unstructured cyber threat data into structured intelligence using Gemi
 git clone https://github.com/Guhan-Sachi/Threat-Analyser-AI
 cd Threat-Analyser-AI/backend
 pip install -r requirements.txt
-
-### Frontend Setup
+ Public code references from 1 repository
+Frontend Setup
+bash
 cd ../frontend
 # Follow the instructions for setting up the frontend
-
 Configuration 🔧
 MongoDB Atlas: Set up your MongoDB Atlas cluster and get the connection string.
 Gemini API: Obtain your Gemini API key and configure it in the application.
