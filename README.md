@@ -105,8 +105,8 @@ Open the frontend in your browser to interact with the dashboard.
       "detailed description": "Description of the cyber attack",
       "date" : "Uploaded date in database",
       "attack_type": "Data Breach",
-      "Risk Factor": "Severity of cyber attack"
-      "Key points" : "points about cyber attack"
+      "Risk Factor": "Severity of cyber attack",
+      "Key points" : "points about cyber attack",
       "tactic": "Initial Access",
       "technique": "Phishing",
       "mitigation": "User training and awareness"
