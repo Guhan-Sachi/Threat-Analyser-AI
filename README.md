@@ -11,15 +11,15 @@ Transform unstructured cyber threat data into structured intelligence using Gemi
 ## Table of Contents
 - [Features](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#features-)
 - [Installation](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#installation-%EF%B8%8F)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Tech Stack](#tech-stack)
-- [API Reference](#api-reference)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Configuration](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#configuration-)
+- [Usage](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#usage-)
+- [Tech Stack](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#tech-stack-%EF%B8%8F)
+- [API Reference](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#api-reference-)
+- [Screenshots](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#screenshots-)
+- [Future Enhancements](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#future-enhancements-)
+- [Contributing](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#contributing-)
+- [License]()
+- [Acknowledgements](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#acknowledgements-)
 
 ## Features ✨
 - **AI-Powered Analysis**: Gemini LLM API for threat extraction
