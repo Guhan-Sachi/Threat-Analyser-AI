@@ -123,12 +123,14 @@ Open the frontend in your browser to interact with the dashboard.
 ![Screenshot 2025-02-11 191916](https://github.com/user-attachments/assets/132d234d-cf36-4991-a303-6713b23dd697)
 ![Screenshot 2025-02-11 191842](https://github.com/user-attachments/assets/75429c1e-98a1-48e5-8816-374f2cf6a56c)
 ![Screenshot 2025-02-11 191808](https://github.com/user-attachments/assets/f0437f37-a9b0-4dd3-9486-c23d0b4cd2fc)
-![Screenshot 2025-02-11 191719](https://github.com/user-attachments/assets/a4872420-016f-4965-b2da-a9df8ae7e60e)
 ![Screenshot 2025-02-11 191651](https://github.com/user-attachments/assets/4d00542e-2eb5-4538-8418-fddd1c96e1a0)
-![Screenshot 2025-02-11 191533](https://github.com/user-attachments/assets/81ef4907-2641-4d7a-aa7a-5b215dcb6cf2)
+![Screenshot 2025-02-11 191719](https://github.com/user-attachments/assets/a4872420-016f-4965-b2da-a9df8ae7e60e)
+
+
 ![Screenshot 2025-02-11 191410](https://github.com/user-attachments/assets/85ef3254-75b6-43cf-b407-81eb51b6de10)
-![Screenshot 2025-02-11 191651](https://github.com/user-attachments/assets/59318965-7418-4749-9047-e46e25b63a71)
-![Screenshot 2025-02-11 191719](https://github.com/user-attachments/assets/df2cdb17-6160-477e-ae37-c1fd18c71ad0)
+![Screenshot 2025-02-11 191533](https://github.com/user-attachments/assets/81ef4907-2641-4d7a-aa7a-5b215dcb6cf2)
+
+
 
 
 
