@@ -48,14 +48,7 @@ Transform unstructured cyber threat data into structured intelligence using Gemi
 ### Backend Setup
 ```bash
 git clone https://github.com/Guhan-Sachi/Threat-Analyser-AI
-cd Threat-Analyser-AI/backend
-pip install -r requirements.txt
-```
-
-### Frontend Setup
-```bash
-cd ../frontend
-# Follow the instructions for setting up the frontend
+cd Threat-Analyser-AI
 ```
 
 ## Configuration 🔧
@@ -69,12 +62,16 @@ MONGODB_URI=your_mongodb_connection_string
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
+## Installing Dependencies
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage 🚀
 
 Start the backend server:
 ```bash
-cd backend
-python app.py
+flask run
 ```
 
 Open the frontend in your browser to interact with the dashboard.
@@ -139,7 +136,6 @@ Open the frontend in your browser to interact with the dashboard.
 ## Future Enhancements 🚀
 - Integration with additional threat intelligence sources
 - Real-time threat detection and alerting
-- Machine learning-based threat prediction
 
 ## Contributing 🤝
 Contributions are welcome! Please read the contributing guidelines for more information.
