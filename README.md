@@ -18,7 +18,6 @@ Transform unstructured cyber threat data into structured intelligence using Gemi
 - [Screenshots](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#screenshots-)
 - [Future Enhancements](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#future-enhancements-)
 - [Contributing](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#contributing-)
-- [License]()
 - [Acknowledgements](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#acknowledgements-)
 
 ## Features ✨
@@ -139,8 +138,6 @@ Open the frontend in your browser to interact with the dashboard.
 ## Contributing 🤝
 Contributions are welcome! Please read the contributing guidelines for more information.
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements 🙏
 - **[Gemini LLM](https://aistudio.google.com/)**
