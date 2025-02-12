@@ -116,7 +116,6 @@ Open the frontend in your browser to interact with the dashboard.
 ```
 
 ## Screenshots 📸
-![Screenshot 2025-02-11 192026](https://github.com/user-attachments/assets/0e311620-e103-4fc2-9ca1-9a84215b2421)
 ![Screenshot 2025-02-11 191949](https://github.com/user-attachments/assets/08c1e4fc-e865-4c74-8496-127e7c5a1f7e)
 ![Screenshot 2025-02-11 191916](https://github.com/user-attachments/assets/132d234d-cf36-4991-a303-6713b23dd697)
 ![Screenshot 2025-02-11 191842](https://github.com/user-attachments/assets/75429c1e-98a1-48e5-8816-374f2cf6a56c)
@@ -125,6 +124,8 @@ Open the frontend in your browser to interact with the dashboard.
 ![Screenshot 2025-02-11 191651](https://github.com/user-attachments/assets/4d00542e-2eb5-4538-8418-fddd1c96e1a0)
 ![Screenshot 2025-02-11 191533](https://github.com/user-attachments/assets/81ef4907-2641-4d7a-aa7a-5b215dcb6cf2)
 ![Screenshot 2025-02-11 191410](https://github.com/user-attachments/assets/85ef3254-75b6-43cf-b407-81eb51b6de10)
+![Screenshot 2025-02-11 191651](https://github.com/user-attachments/assets/59318965-7418-4749-9047-e46e25b63a71)
+![Screenshot 2025-02-11 191719](https://github.com/user-attachments/assets/df2cdb17-6160-477e-ae37-c1fd18c71ad0)
 
 
 
