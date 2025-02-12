@@ -9,7 +9,7 @@ Transform unstructured cyber threat data into structured intelligence using Gemi
 ![Workflow Diagram](![image](description.png)) <!-- Replace with actual diagram -->
 
 ## Table of Contents
-- [Features](#features)
+- [Features](https://github.com/Guhan-Sachi/Threat-Analyser-AI/blob/main/README.md#features-)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
