@@ -9,6 +9,11 @@ Transform unstructured cyber threat data into structured intelligence using Gemi
 ## Workflow Diagram
 ![image (1)](https://github.com/user-attachments/assets/a20275ba-4c2f-48f7-b24a-ae6b176be8f6)
 
+## WORKING VIDEO
+https://github.com/user-attachments/assets/a88fc1bc-5a45-44d3-b8df-26d3fd807b72
+
+
+
 
 
 
